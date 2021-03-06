@@ -3,9 +3,9 @@
     "description": "Deploy newapp on Heroku.",
     "keywords": ["newapp"],
     "env": {
-        "UUID": {
-            "description": "UUID",
-            "value": "043d2295-5739-4f6a-8c0e-bb6ec6e8813d"
+        "PASSWD": {
+            "description": "PASSWORD",
+            "value": "test"
         }
     },
     "stack": "container"
